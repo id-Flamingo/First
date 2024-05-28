@@ -5,7 +5,7 @@ Create a repository linked to Github from the terminal
 On the command line:
 
 $ touch README.md 
-# Just an empty file, need something to upload #
+# Just an empty file, need something to upload
 
 $ git init
 # Initializes the directory you are in to be connected github. The way I understand it you have two sides that are trying to connect to each other. The local directory on your computer and the github server. We want to link these two so that you can upload to that server directly from your file on your computer. To do that both files need an abstract 'flag' or 'on switch' that says 'I am ready to connect.' GIT INIT tells your computer that it is ready to connect, the first 'on switch.'
